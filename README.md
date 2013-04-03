@@ -9,4 +9,4 @@ You need a copy of Ren'py engine to run this game.
 
 2 - Set the "Projects Directory" in Ren'py "Preferences" to the directory containing the sources of Inner Beasts.
 
-3 - Select the game and "Launc Project".
+3 - Select the game and "Launch Project".
